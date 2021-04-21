@@ -415,15 +415,15 @@ a:hover {
 }
 
 .button:hover {
-  background-color: #0062d3;
-  color: #fff;
+  background-color: #000;
+  color: #FFD700;
   transition: all 500ms ease;
 }
 
 .button-a {
   text-decoration: none;
-  background-color: #0078ff;
-  color: #fff;
+  background-color: #FFD700;
+  color: #000;
   border-color: #cde1f8;
 }
 
